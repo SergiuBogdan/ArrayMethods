@@ -1,0 +1,34 @@
+.main {
+  height: 100vh;
+  width: 100%;
+  background-color: red;
+  background-image: linear-gradient(rgb(0, 174, 255), rgb(187, 187, 137));
+}
+
+.second {
+  display: inline-block;
+}
+
+button {
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 5px;
+  font-size: 15px;
+  color: white;
+  border-radius: 5px;
+  border-style: none;
+  background-color: rgb(53, 53, 249);
+  cursor: pointer;
+}
+
+input {
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 5px;
+  font-size: 15px;
+  border-radius: 5px;
+}
+
+h2 {
+  margin-left: 20px;
+}
